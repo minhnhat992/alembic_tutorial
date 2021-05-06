@@ -1,6 +1,6 @@
 """create account table
 
-Revision ID: 2cdbd6535f5a
+Revision ID: 1975ea83b712
 Revises: 
 Create Date: 2021-05-05 21:03:26.178274
 
@@ -10,7 +10,7 @@ import sqlalchemy as sa
 
 
 # revision identifiers, used by Alembic.
-revision = '2cdbd6535f5a'
+revision = '1975ea83b712'
 down_revision = None
 branch_labels = None
 depends_on = None
