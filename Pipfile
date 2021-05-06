@@ -6,6 +6,8 @@ name = "pypi"
 [packages]
 SQLAlchemy = "*"
 alembic = "*"
+myapp = "*"
+
 [dev-packages]
 
 [requires]
